@@ -1,5 +1,5 @@
 # programming-blog
-Website for posting information on most used front end and back end languages
+Website created for posting information on most used front end and back end languages using Django Web framework
 
 sakibsskks.pythonanywhere.com
 Username: sakib
